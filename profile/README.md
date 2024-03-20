@@ -1,6 +1,6 @@
 ## ROAR+FLOW
 
-Software development for an autonomous teaching & research platform compatible with iOS
+Software development for a small scale autonomous teaching & research platform compatible with iOS
 
 <!--
 
